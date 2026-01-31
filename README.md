@@ -6,13 +6,11 @@ Designed with a clean UI and smooth user experience to simulate real-world e-com
 
 🚀 Live Demo
 
-👉 (Add your deployed link here)
-https://your-live-link.com
+👉 [live page](https://rustom-yadav.github.io/shopping-cart-app/)
 
 📂 GitHub Repository
 
-👉 (Add your repository link here)
-https://github.com/your-username/shopping-cart
+👉 [github repo link](https://github.com/Rustom-yadav/shopping-cart-app)
 
 ✨ Features
 
